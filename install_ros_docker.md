@@ -13,3 +13,7 @@
  - #### docker run -it image_name/repo_id
 check some ros commands
 - #### roscore
+
+To setup arm simulator in x86_64 install qemu
+
+- #### sudo apt-get install qemu binfmt-support qemu-user-static
